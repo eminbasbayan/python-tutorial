@@ -11,20 +11,20 @@ Bu kurs, Python programlama dilinin temellerini anlamak ve kendi projelerinizi g
 
 ## Kurs İçeriği
 
-- [**İlk Python Programımız:**](https://github.com/eminbasbayan/python-tutorial/blob/main/1-%20app.py) Python ile basit bir program yazmak.
-- [**Değişkenler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/2-%20degiskenler.py) Değişken tanımlama ve kullanımı.
-- [**Kullanıcıdan Girdi Almak:**](https://github.com/eminbasbayan/python-tutorial/blob/main/3-%20girdi-alma.py) Kullanıcı girdisi alma ve işleme.
-- [**Tip Dönüşümü:**](https://github.com/eminbasbayan/python-tutorial/blob/main/4-%20tur-donusumu.py) Çeşitli veri tipleri arasında dönüşüm.
-- [**Stringler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/5-%20stringler.py) Metin işleme yöntemleri.
-- [**Aritmetik Operatörler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/6-%20aritmetik-operatorler.py) Temel matematik işlemleri.
-- [**Karşılaştırma Operatörleri:**](https://github.com/eminbasbayan/python-tutorial/blob/main/7-%20karsilastirma-operatorleri.py) Değerleri karşılaştırma.
-- [**Mantıksal Operatörler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/8-%20mantiksal-operatorler.py) Mantıksal işlemler.
-- [**Koşul İfadeleri:**](https://github.com/eminbasbayan/python-tutorial/blob/main/9-%20kosullu-ifadeler.py) Koşullu durumların kontrolü.
-- [**Uygulama:**](https://github.com/eminbasbayan/python-tutorial/blob/main/10-%20uygulama.py) Pekişmesi için uygulama.
-- [**While Döngüleri:**](https://github.com/eminbasbayan/python-tutorial/blob/main/11-%20while-donguleri.py) Koşullu döngüler.
-- [**Listeler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/12-%20listeler.py) Liste veri yapısı ve operasyonları.
-- [**Liste Metotları:**](https://github.com/eminbasbayan/python-tutorial/blob/main/13-%20liste-metodlari.py) Listeler üzerindeki çeşitli metotlar.
-- [**For Döngüleri:**](https://github.com/eminbasbayan/python-tutorial/blob/main/14-%20for-donguleri.py) Aralıklar üzerinde döngü yapma.
+- [**İlk Python Programımız:**](https://github.com/eminbasbayan/python-tutorial/blob/main/01_app.py) Python ile basit bir program yazmak.
+- [**Değişkenler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/02_degiskenler.py) Değişken tanımlama ve kullanımı.
+- [**Kullanıcıdan Girdi Almak:**](https://github.com/eminbasbayan/python-tutorial/blob/main/03_girdi-alma.py) Kullanıcı girdisi alma ve işleme.
+- [**Tip Dönüşümü:**](https://github.com/eminbasbayan/python-tutorial/blob/main/04_tur-donusumu.py) Çeşitli veri tipleri arasında dönüşüm.
+- [**Stringler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/05_stringler.py) Metin işleme yöntemleri.
+- [**Aritmetik Operatörler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/06_aritmetik-operatorler.py) Temel matematik işlemleri.
+- [**Karşılaştırma Operatörleri:**](https://github.com/eminbasbayan/python-tutorial/blob/main/07_karsilastirma-operatorleri.py) Değerleri karşılaştırma.
+- [**Mantıksal Operatörler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/08_mantiksal-operatorler.py) Mantıksal işlemler.
+- [**Koşul İfadeleri:**](https://github.com/eminbasbayan/python-tutorial/blob/main/09_kosullu-ifadeler.py) Koşullu durumların kontrolü.
+- [**Uygulama:**](https://github.com/eminbasbayan/python-tutorial/blob/main/10_uygulama.py) Pekişmesi için uygulama.
+- [**While Döngüleri:**](https://github.com/eminbasbayan/python-tutorial/blob/main/11_while-donguleri.py) Koşullu döngüler.
+- [**Listeler:**](https://github.com/eminbasbayan/python-tutorial/blob/main/12_listeler.py) Liste veri yapısı ve operasyonları.
+- [**Liste Metotları:**](https://github.com/eminbasbayan/python-tutorial/blob/main/13_liste-metodlari.py) Listeler üzerindeki çeşitli metotlar.
+- [**For Döngüleri:**](https://github.com/eminbasbayan/python-tutorial/blob/main/14_for-donguleri.py) Aralıklar üzerinde döngü yapma.
 
 ## Uygulamalar
 
